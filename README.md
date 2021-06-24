@@ -1,14 +1,14 @@
 This is a simple App where you can add movies from [omdbapi](http://www.omdbapi.com/?apikey=3ca5df7&t=${movie}) api 
 
 <h4>Functionalities: </h4>
-1.Add movies through search result
-2.Favourite/UnFavourite a movie
+<li>Add movies through search result</li>
+<li>Favourite/UnFavourite a movie</li>
 
-![](gitimages/Screenshot (212).png)
+![](gitimages/Screenshot(212).png)
 
-![](gitimages/Screenshot (211).png)
+![](gitimages/Screenshot(211).png)
 
-![](gitimages/Screenshot (210).png)
+![](gitimages/Screenshot(210).png)
 
 <h4> Important libraies used </h4>
 <li> react </li>

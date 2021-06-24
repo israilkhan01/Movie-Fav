@@ -1,18 +1,23 @@
-This is a simple App where you can add movies from [omdbapi](http://www.omdbapi.com/?apikey=3ca5df7&t=${movie}) api 
+This is a simple Web App where you can **Add movies** from [omdbapi](http://www.omdbapi.com/?apikey=3ca5df7&t=${movie}) api 
 
 <h4>Functionalities: </h4>
 <li>Add movies through search result</li>
 <li>Favourite/UnFavourite a movie</li>
-
+<br>
+<div>
+ 
 ![](gitimages/Screenshot(212).png)
 
 ![](gitimages/Screenshot(211).png)
 
 ![](gitimages/Screenshot(210).png)
+  
+  </div>
 
-<h4> Important libraies used </h4>
+<h4> Important libraries used </h4>
 <li> react </li>
 <li> redux  </li>
+<br>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
